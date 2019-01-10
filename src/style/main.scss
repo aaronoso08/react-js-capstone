@@ -1,0 +1,72 @@
+
+.nav-bar {
+    font-size: 2.0rem;
+    display: flex;
+    text-decoration: underline;
+    float: none;
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    font-family: Impact,sans-serif;
+  }
+  .nav-bar a {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    color: black;
+  }
+  .nav-bar a:hover, .nav-bar a:active {
+    color:black;
+  }
+  .nav-bar p {
+    font-size: 1.8rem;
+    color: black;
+    float: left;
+    text-align: center;
+    
+  }
+  .nav-bar p:hover, .nav-bar p:active {
+    color: green;
+  }
+  .nav-bar h3 {
+    display: flex;
+    justify-content: space-around;
+    color: black; 
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-family: Impact,sans-serif;
+  }
+  .nav-bar h3:hover, .nav-bar h3:active {
+    color: blue;
+  }
+  .nav-bar b {
+    display: flex;
+    justify-content: space-around;
+    color: black; 
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  .nav-bar b:hover, .nav-bar b:active {
+    color: red;
+  }
+  .nav-bar u {  
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-size: 1.8rem;
+  }
+  .nav-bar u:hover, .nav-bar u:active {
+    color: rgb(70, 30, 30);
+  }
+  
+  .nav-background {
+    margin-top: 0.2rem;
+    background-image: url("https://media.rbl.ms/image?u=%2Ffiles%2F2016%2F04%2F23%2F6359704826388393791173263700_giphy%2520%283%29.gif&ho=https%3A%2F%2Faz616578.vo.msecnd.net&s=647&h=c8cc133fce20460221b96bc973fe66b59f4c2be7e3299e7f48915a102672637d&size=980x&c=1419081572");
+    height: 242px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    opacity: 0.9;
+  }
+  
+  

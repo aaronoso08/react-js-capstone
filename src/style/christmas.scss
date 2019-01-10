@@ -1,0 +1,100 @@
+.month {
+    display: flex;
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    background: #a13131;
+    text-align: center;
+}
+
+.month ul {
+    align-content: center;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 30px;
+}
+
+.days {
+    margin-top: -1.0rem;
+    display: flex;
+    float: none;
+    text-align: left;
+    display: flex;
+    text-align: left;
+    background: #eee;
+}
+
+.days i {
+    font-size:35px;
+    color: #777;
+    width: 100%;
+    font-family: impact;
+    font-weight: bold;
+}
+
+.days i .active {
+    padding: 5px;
+    background: #1abc9c;
+    color: white 
+}
+.map1 {
+    margin-top: 0.2rem;  
+    padding: 10px 48px;
+    display: flex;
+    float: none;
+    text-align: left;
+    display: flex;
+}
+.contacti  {
+    text-align: center;
+ h1 {
+    color:black;
+    font-size: 4rem;
+    font-family: Impact,sans-serif;
+}
+}
+
+
+
+.Countdown{
+    margin: 10px auto;
+    padding-bottom: 12px;
+}
+
+.Countdown-col{
+    display: inline-block;
+}
+
+.Countdown-col-element{
+    display: inline-block;
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Countdown-col-element strong{
+    font-size: 50px;
+}
+
+
+.background1 {
+    background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/3461476/1360/906/m1/fpnw/wm1/z4uumftf8o1jgno00c3yk52udfmvvpdoriyvro3cj8jnjyvxmw63zqj5rmay9ih3-.jpg?1508850329&s=436a642a3384357552f43419cce52615");
+    height: 1000px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    opacity: 0.9;
+}
+
+
+.video1 {
+    margin-top: 0.2rem;  
+    padding: 10px 48px;
+    display: flex;
+    float: none;
+    text-align: left;
+    display: flex;
+}
+
